@@ -4,7 +4,7 @@
   "name": "doniphantom",
   "upload_source_maps": true,
   "ai": {
-    "binding": "GPT"
+    "binding": "AI"
   },
   "observability": {
     "enabled": true
